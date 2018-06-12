@@ -1,4 +1,4 @@
-package _05_Intro_To_Hash_Maps;
+package _06_Intro_To_Hash_Maps;
 
 
 public class _02_LogSearch {

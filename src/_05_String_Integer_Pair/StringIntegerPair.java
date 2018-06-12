@@ -1,4 +1,4 @@
-package _04_String_Integer_Pair;
+package _05_String_Integer_Pair;
 
 public class StringIntegerPair {
 	//1. create a private array of Strings called keys. Don't initialize it.

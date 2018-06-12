@@ -1,4 +1,4 @@
-package _04_String_Integer_Pair;
+package _05_String_Integer_Pair;
 
 import static org.junit.jupiter.api.Assertions.*;
 
